@@ -1,0 +1,82 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.temp
+*.tmp
+*.swp
+*.swo
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build artifacts
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.code-workspace
+
+# OS files
+*.DS_Store
+*.directory
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary files
+tmp/
+temp/
+
+# Client-specific
+client/node_modules/
+client/dist/
+client/build/
+client/.next/
+client/out/
+client/.cache/
+client/public/static/
+client/coverage/
+client/*.env.local
+
+# Server-specific
+server/node_modules/
+server/dist/
+server/build/
+server/coverage/
+server/tmp/
+server/*.env.local
+
+# Jest testing
+coverage/
+*.lcov
+
+# MacOS
+*.DS_Store
+
+# Linux
+*~ 
+
+# Windows
+Thumbs.db
