@@ -67,11 +67,3 @@ This project is a full-stack application using React for the frontend, Node.js w
 3. Set up the necessary environment variables on your hosting service.
 
 4. Deploy the frontend build to a static hosting service (e.g., Netlify, Vercel, AWS S3).
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
