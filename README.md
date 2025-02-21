@@ -7,7 +7,7 @@ This project is a full-stack application using React for the frontend, Node.js w
 - Node.js (v14 or later)
 - npm or yarn
 - Supabase account
-
+//
 ## Setup
 
 1. Clone the repository:
